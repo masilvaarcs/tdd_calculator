@@ -1,7 +1,7 @@
 # TDD Calculator
 
 Este é um módulo Python contendo funções para realizar operações matemáticas básicas, como soma,
-subtração, multiplicação e divisão.
+subtração, multiplicação e divisão. O único objetivo aqui é reforçar os conceitos de Test-Driven Development (TDD).
 
 ## Como testar o código
 
