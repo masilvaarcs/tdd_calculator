@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+logs/
+*.vscode/
+.vscode/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Dependencies (Example: pipenv lockfile)
+Pipfile.lock
+
+# Pycharm ambiente
+.idea/
